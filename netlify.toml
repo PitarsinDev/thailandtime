@@ -1,0 +1,3 @@
+[build]
+  command = "npm run build" # หรือคำสั่งที่ใช้ในการ build โปรเจ็กต์ Express.js ของคุณ
+  functions = "build/"
